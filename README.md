@@ -24,7 +24,7 @@ Run the project
 npm start
 ```
 
-## Setup Firebase Authentication
+### Setup Firebase Authentication
 1. Create a Firebase Project:
 
 - Go to the Firebase Console.
