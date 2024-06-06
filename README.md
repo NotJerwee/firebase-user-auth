@@ -28,22 +28,22 @@ npm start
 1. Create a Firebase Project:
 
 - Go to the Firebase Console.
-- Click on "Add project", follow the setup flow, and create your project.
+- Click on "Add project", follow the instructions, and create your project.
 
 2. Enable Authentication:
 
-- In the Firebase console, navigate to the "Authentication" section.
+- Navigate to the "Authentication" section.
 - Click on the "Get started" button.
-- Enable the sign-in methods you want to use (e.g., Email/Password, Google, Facebook).
+- Enable the sign-in methods, "Email/Password" and others that you want to use (e.g., Google, Facebook).
 
 3. Register Your App with Firebase:
 
-- In the Firebase console, add a new application by selecting "Add app" and choose the web app icon.
+- In the Project Overview, add a new application by selecting the web app icon.
 - Follow the instructions to register your app.
 
-4. Configure Firebase in Your Application:
+4. Configure Firebase SDK in Your Application:
 
-- After installation, import and configure Firebase in your application. Place your Firebase configuration keys in the `.env` file as follows:
+- Place your Firebase configuration keys in the `.env` file as follows:
 ```
 REACT_APP_FIREBASE_API_KEY=your_firebase_api_key
 REACT_APP_FIREBASE_AUTH_DOMAIN=your_firebase_auth_domain
