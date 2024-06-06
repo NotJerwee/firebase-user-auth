@@ -1,4 +1,4 @@
-#firebase-user-auth
+# firebase-user-auth
 A template for user authentication using Firebase
 
-#Installation
+# Installation
