@@ -2,3 +2,7 @@
 A template for user authentication using Firebase
 
 # Installation
+Git clone
+`
+
+`
