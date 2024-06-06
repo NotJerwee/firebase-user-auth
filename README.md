@@ -1,5 +1,5 @@
 # firebase-user-auth
-A template for user authentication using Firebase
+A template to create a user authentication using Firebase
 
 ## Installation
 Git clone
