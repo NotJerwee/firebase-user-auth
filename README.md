@@ -9,7 +9,7 @@ https://github.com/yourusername/firebase-user-auth.git
 or
 download zip folder
 
-Change directory if haven't
+Change directory
 ```
 cd firebase-user-auth
 ```
