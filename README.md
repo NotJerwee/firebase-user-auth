@@ -19,11 +19,6 @@ Install packages
 npm install
 ```
 
-Run the project
-```
-npm start
-```
-
 ### Setup Firebase Authentication
 1. Create a Firebase Project:
 
@@ -43,7 +38,7 @@ npm start
 
 4. Configure Firebase SDK in Your Application:
 
-- Place your Firebase configuration keys in the `.env` file as follows:
+- Create a `.env` file and place your Firebase configuration keys in the `.env` file as follows:
 ```
 REACT_APP_FIREBASE_API_KEY=your_firebase_api_key
 REACT_APP_FIREBASE_AUTH_DOMAIN=your_firebase_auth_domain
@@ -51,6 +46,11 @@ REACT_APP_FIREBASE_PROJECT_ID=your_firebase_project_id
 REACT_APP_FIREBASE_STORAGE_BUCKET=your_firebase_storage_bucket
 REACT_APP_FIREBASE_MESSAGING_SENDER_ID=your_firebase_sender_id
 REACT_APP_FIREBASE_APP_ID=your_firebase_app_id
+```
+
+Run the project
+```
+npm start
 ```
 
 ## Tech Sack
