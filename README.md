@@ -53,6 +53,8 @@ Run the project
 npm start
 ```
 
+<img width="1800" alt="Screenshot 2024-06-09 at 5 31 12 PM" src="https://github.com/NotJerwee/firebase-user-auth/assets/103540592/1d80c21a-51fc-4d97-b6e8-2d5dea5000f6">
+
 ## Tech Sack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
