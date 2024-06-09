@@ -13,7 +13,7 @@ Change to the project directory:
 cd firebase-user-auth
 ```
 
-Install packages:
+Install the necessary packages:
 ```
 npm install
 ```
