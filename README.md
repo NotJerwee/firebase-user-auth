@@ -28,7 +28,7 @@ npm install
 
 - Navigate to the "Authentication" section.
 - Click on the "Get started" button.
-- Enable the sign-in methods, "Email/Password" and others that you want to use (e.g., Google, Facebook).
+- Enable the sign-in methods you want to use (e.g., Email/Password, Google).
 
 3. Register Your App with Firebase:
 
@@ -37,7 +37,8 @@ npm install
 
 4. Configure Firebase SDK in Your Application:
 
-- Create a `.env` file and place your Firebase configuration keys in the `.env` file as follows:
+- Create a `.env` file in the root directory.
+- Add your Firebase configuration keys to the `.env` file as follows:
 ```
 REACT_APP_FIREBASE_API_KEY=your_firebase_api_key
 REACT_APP_FIREBASE_AUTH_DOMAIN=your_firebase_auth_domain
@@ -57,9 +58,9 @@ Your application should now be running at http://localhost:3000.
 <img width="1800" alt="Screenshot 2024-06-09 at 5 31 12 PM" src="https://github.com/NotJerwee/firebase-user-auth/assets/103540592/1d80c21a-51fc-4d97-b6e8-2d5dea5000f6">
 
 ## Features
-Google Authentication: Seamlessly integrate Google sign-in to your application.
-Email/Password Authentication: Enable traditional email and password sign-in.
-Firebase Integration: Simplified setup and configuration for Firebase authentication.
+- Google Authentication: Seamlessly integrate Google sign-in to your application.
+- Email/Password Authentication: Enable traditional email and password sign-in.
+- Firebase Integration: Simplified setup and configuration for Firebase authentication.
 
 
 ## Tech Sack
