@@ -1,6 +1,10 @@
 # firebase-user-auth
 A template to create a user authentication using Firebase
 
+## Overview
+<img width="1800" alt="Screenshot 2024-06-09 at 5 31 12 PM" src="https://github.com/NotJerwee/firebase-user-auth/assets/103540592/1d80c21a-51fc-4d97-b6e8-2d5dea5000f6">
+
+
 ## Installation
 Clone the repository:
 ```
@@ -55,7 +59,6 @@ npm start
 ```
 
 Your application should now be running at http://localhost:3000.
-<img width="1800" alt="Screenshot 2024-06-09 at 5 31 12 PM" src="https://github.com/NotJerwee/firebase-user-auth/assets/103540592/1d80c21a-51fc-4d97-b6e8-2d5dea5000f6">
 
 ## Features
 - Google Authentication: Seamlessly integrate Google sign-in to your application.
